@@ -25,7 +25,9 @@ git remote -v    # Просмотр ссылки для подключения к облаку репозитория
 git remote set-url origin url   # Замена ссылки подключения к облаку репозитория
 git.bash  ssh-keygen.exe   # Генерация ssh ключа в Windows
 
- 
+git add . && git commit -m "add manual" && git push origin
+
+
 
 
 
